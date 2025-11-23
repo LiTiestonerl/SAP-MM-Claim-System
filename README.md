@@ -8,7 +8,7 @@ This project is a comprehensive **Claim Management System** developed on **SAP S
 ## Key Features
 * ✅ **Claim Processing:** Automates the creation of claim requests for defective materials.
 * ✅ **Integration:** Seamlessly integrated with SAP MM module via **BAPI**.
-* ✅ **Inventory Logic:** Handles complex logic for Return Stock, Exchange Material, and GI Scrapping.
+* ✅ **Inventory Logic:** Handles complex logic for Return Stock, Exchange Material, Claim amount and GI Scrapping.
 * ✅ **Reporting:** Custom ALV reports for tracking claim status in real-time.
 
 ## Tech Stack
